@@ -1,4 +1,4 @@
-## Segmentação de Clientes com K-means
+# Segmentação de Clientes com K-means
 
 O **algoritmo K-means** é uma técnica de **aprendizado não supervisionado** amplamente utilizada para segmentação de dados, que tem como objetivo agrupar um conjunto de objetos em **k** grupos (ou clusters) com base em características semelhantes. No contexto da **Zero Furo**, o K-means pode ser usado para identificar grupos de clientes com comportamentos de compra semelhantes.
 
@@ -24,7 +24,7 @@ O **algoritmo K-means** é uma técnica de **aprendizado não supervisionado** a
      - **Resultados Obtidos**:
        - **Cluster 1**: Clientes com compras esporádicas, gastando pouco, mas com boa base de clientes. Esses clientes são propensos a promoções direcionadas, como descontos progressivos.
        - **Cluster 2**: Clientes com compras mais frequentes, que já têm um ticket médio mais alto. Esses clientes podem ser alavancados com programas de fidelidade e ofertas de upselling.
-       - **Cluster 3**: Clientes que compram grandes quantidades de produtos, mas ainda assim com gasto relativamente baixo. Estratégias de cross-selling podem ser eficazes aqui, oferecendo produtos complementares.
+       - **Cluster 3**: Clientes que compram grandes quantidades de produtos, mas ainda assim com gasto relativamente baixo. 
    
 5. **Estratégias de Marketing Personalizado**:
    - Com os clusters definidos, é possível adotar estratégias de marketing mais eficazes, como:
