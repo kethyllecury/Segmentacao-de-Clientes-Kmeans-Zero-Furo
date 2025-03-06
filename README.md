@@ -1,8 +1,8 @@
 # Segmentação de Clientes com K-means - Zero Furo
 
-A **Zero Furo** utiliza o **algoritmo K-means** para segmentação de clientes, a fim de identificar diferentes perfis de compra e comportamentos, o que permite estratégias de marketing mais eficazes e personalizadas.
+O algoritmo **K-means** foi utilizado para segmentar os clientes da **Zero Furo**, com o objetivo de identificar diferentes perfis de compra e comportamentos. Com isso, foi possível desenvolver estratégias de marketing mais eficazes e personalizadas, baseadas nas características de cada grupo de clientes.
 
-O **K-means** é um algoritmo de **aprendizado não supervisionado**, que visa agrupar dados em **k** clusters com base em características semelhantes. Neste caso, o K-means é aplicado para segmentar os clientes com base no comportamento de compras, como a quantidade adquirida e o valor gasto.
+O **K-means** é um algoritmo de **aprendizado não supervisionado** que agrupa dados em **k clusters** com base em características semelhantes. Nesse caso, o algoritmo foi aplicado para segmentar os clientes com base no comportamento de compras, considerando variáveis como a **quantidade adquirida** e o **valor gasto**.
 
 ## Como o K-means é aplicado na segmentação de clientes
 
